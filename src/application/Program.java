@@ -8,6 +8,7 @@ public class Program {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		System.out.println("Hello Word" );
 		System.out.println("Enter column and row numbers: ");
 		
 		int m = sc.nextInt();
